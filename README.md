@@ -1,3 +1,5 @@
+<h1><a href="https://flashtype.netlify.app/">Live Application</a></h1>
+
 # Flash Type
 
 A simple typing speed test application
