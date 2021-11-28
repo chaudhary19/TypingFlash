@@ -1,4 +1,4 @@
-<h1><a href="https://flashtype.netlify.app/">Live Application</a></h1>
+<h1><a href="https://typingflashbymayank.netlify.app/">Live Application</a></h1>
 
 # Flash Type
 
